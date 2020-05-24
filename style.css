@@ -1,0 +1,22 @@
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+
+}
+.jumbo {
+	width: 800px;
+	height: 400px;
+	background-color: #6D92AO;
+
+}
+
+.doo {
+	font-color:black;
+	font-size: 125%;
+}
+
+
+.foo {
+	font-family: "Times New Roman";
+	font-size: 125%;
+}
